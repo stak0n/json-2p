@@ -1,1 +1,99 @@
-{"TIMESTAMP": "2020-09-01 15:56:25.719849", "sportId": 33, "last": 275166217, "league": [{"id": 8372, "name": "ATP Challenger Ostrava - R1", "events": [{"id": 1163309725, "starts": "2020-09-02T10:00:00Z", "home": "Lukas Rosol", "away": "Hyeon Chung", "rotNum": "9015", "liveStatus": 0, "status": "O", "parlayRestriction": 2, "altTeaser": false, "resultingUnit": "Regular"}, {"id": 1163309722, "starts": "2020-09-02T12:00:00Z", "home": "Aslan Karatsev", "away": "Tomas Machac", "rotNum": "9005", "liveStatus": 0, "status": "O", "parlayRestriction": 2, "altTeaser": false, "resultingUnit": "Regular"}, {"id": 1164363526, "starts": "2020-09-02T08:00:00Z", "home": "Vit Kopriva", "away": "Ilya Ivashka", "rotNum": "9021", "liveStatus": 0, "status": "O", "parlayRestriction": 2, "altTeaser": false, "resultingUnit": "Regular"}, {"id": 1163309724, "starts": "2020-09-02T08:00:00Z", "home": "Tallon Griekspoor", "away": "Robin Haase", "rotNum": "9003", "liveStatus": 0, "status": "O", "parlayRestriction": 2, "altTeaser": false, "resultingUnit": "Regular"}, {"id": 1163309720, "starts": "2020-09-02T12:00:00Z", "home": "Aleksandar Vukic", "away": "Oscar Otte", "rotNum": "9007", "liveStatus": 0, "status": "O", "parlayRestriction": 2, "altTeaser": false, "resultingUnit": "Regular"}, {"id": 1163309726, "starts": "2020-09-02T10:00:00Z", "home": "Roman Safiullin", "away": "Dmitry Popko", "rotNum": "9011", "liveStatus": 0, "status": "O", "parlayRestriction": 2, "altTeaser": false, "resultingUnit": "Regular"}, {"id": 1163309728, "starts": "2020-09-02T08:00:00Z", "home": "Steven Diez", "away": "Rudolf Molleker", "rotNum": "9013", "liveStatus": 0, "status": "O", "parlayRestriction": 2, "altTeaser": false, "resultingUnit": "Regular"}, {"id": 1163309730, "starts": "2020-09-02T10:00:00Z", "home": "Henri Laaksonen", "away": "Brayden Schnur", "rotNum": "9017", "liveStatus": 0, "status": "O", "parlayRestriction": 2, "altTeaser": false, "resultingUnit": "Regular"}]}], "Latency": 0.337514}
+{
+	"TIMESTAMP": "2020-09-01 15:56:25.719849",
+	"sportId": 33,
+	"last": 275166217,
+	"league": [{
+		"id": 8372,
+		"name": "ATP Challenger Ostrava - R1",
+		"events": [{
+			"id": 1163309725,
+			"starts": "2020-09-02T10:00:00Z",
+			"home": "Lukas Rosol",
+			"away": "Hyeon Chung",
+			"rotNum": "9015",
+			"liveStatus": 0,
+			"status": "O",
+			"parlayRestriction": 2,
+			"altTeaser": false,
+			"resultingUnit": "Regular"
+		}, {
+			"id": 1163309722,
+			"starts": "2020-09-02T12:00:00Z",
+			"home": "Aslan Karatsev",
+			"away": "Tomas Machac",
+			"rotNum": "9005",
+			"liveStatus": 0,
+			"status": "O",
+			"parlayRestriction": 2,
+			"altTeaser": false,
+			"resultingUnit": "Regular"
+		}, {
+			"id": 1164363526,
+			"starts": "2020-09-02T08:00:00Z",
+			"home": "Vit Kopriva",
+			"away": "Ilya Ivashka",
+			"rotNum": "9021",
+			"liveStatus": 0,
+			"status": "O",
+			"parlayRestriction": 2,
+			"altTeaser": false,
+			"resultingUnit": "Regular"
+		}, {
+			"id": 1163309724,
+			"starts": "2020-09-02T08:00:00Z",
+			"home": "Tallon Griekspoor",
+			"away": "Robin Haase",
+			"rotNum": "9003",
+			"liveStatus": 0,
+			"status": "O",
+			"parlayRestriction": 2,
+			"altTeaser": false,
+			"resultingUnit": "Regular"
+		}, {
+			"id": 1163309720,
+			"starts": "2020-09-02T12:00:00Z",
+			"home": "Aleksandar Vukic",
+			"away": "Oscar Otte",
+			"rotNum": "9007",
+			"liveStatus": 0,
+			"status": "O",
+			"parlayRestriction": 2,
+			"altTeaser": false,
+			"resultingUnit": "Regular"
+		}, {
+			"id": 1163309726,
+			"starts": "2020-09-02T10:00:00Z",
+			"home": "Roman Safiullin",
+			"away": "Dmitry Popko",
+			"rotNum": "9011",
+			"liveStatus": 0,
+			"status": "O",
+			"parlayRestriction": 2,
+			"altTeaser": false,
+			"resultingUnit": "Regular"
+		}, {
+			"id": 1163309728,
+			"starts": "2020-09-02T08:00:00Z",
+			"home": "Steven Diez",
+			"away": "Rudolf Molleker",
+			"rotNum": "9013",
+			"liveStatus": 0,
+			"status": "O",
+			"parlayRestriction": 2,
+			"altTeaser": false,
+			"resultingUnit": "Regular"
+		}, {
+			"id": 1163309730,
+			"starts": "2020-09-02T10:00:00Z",
+			"home": "Henri Laaksonen",
+			"away": "Brayden Schnur",
+			"rotNum": "9017",
+			"liveStatus": 0,
+			"status": "O",
+			"parlayRestriction": 2,
+			"altTeaser": false,
+			"resultingUnit": "Regular"
+		}]
+	}],
+	"Latency": 0.337514
+}
